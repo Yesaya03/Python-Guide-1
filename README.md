@@ -1,1 +1,2 @@
-# Python-1
+# Sertification Python Specialist
+### Represented by: Yesaya Arya
