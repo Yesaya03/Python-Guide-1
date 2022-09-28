@@ -62,7 +62,7 @@ __4. String Checking__
 
 __5. Slicing String__  
 
-### List ###
+## List ##
 * Lists are used to store multiple items in a single variable.
 * To declare a list, brackets `[]` are used and each member is separated by a comma.
 * List items are indexed, the index start form 0
@@ -82,13 +82,13 @@ __1. Python List Method__
 * The `sort()` method sorts the list items in ascending order by default
 * The `reverse()` method will return list from tail index to head
 
-### Tuple ###
+## Tuple ##
 * A tuple is a collection which is ordered, allow duplicate values and unchangeable.
 * Tuples are used to store multiple items in a single variable
 * Tuples are written with round brackets `()`
 * Tuple items can be of any data type
 
-### Set ###
+## Set ##
 * A set is a collection which is unordered, unchangeable, and unindexed.
 * Sets are used to store multiple items in a single variable and must be unique
 * Sets are written with curly brackets `{}`
@@ -99,7 +99,7 @@ __1. Set Method__
 
 * The `intersection()` method is returned set contains only items that exist in both sets, or in all sets if the comparison is done with more than two sets
 
-### Dictionary ###
+## Dictionary ##
 * A dictionary is a collection that is unordered, changeable, and do not allow duplicates
 * Dictionary items are presented in key:value pairs, and can be referred to by using the key name
 * Dictionaries are written with curly brackets `{}`
