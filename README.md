@@ -1,3 +1,5 @@
+# Python Guide #2
+
 # Data types on Python
 
 There are 7 data types that are often used by programmers in Python i.e number such as integer and float, boolean, string, list, tuple, set, and dictionary. all with different usage and built-in that comes with it
